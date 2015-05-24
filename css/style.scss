@@ -29,12 +29,25 @@ article {
             display: block;
             font-weight: 100;
         }
-
+        a {
+            text-decoration: none;
+            color: black;
+            &:hover {
+                color: black;
+            }
+            &:visited {
+                color: black;
+            }
+            i {
+                margin-right: 5px;
+            }
+        }
     }
     ul {
         margin-left: 0;
         padding-left: 1.5em;
     }
+
 }
 
 
