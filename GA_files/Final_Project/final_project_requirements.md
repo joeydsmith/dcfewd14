@@ -53,6 +53,10 @@ Your instructional team will provide feedback on how well you execute best pract
 
 *	__Avoid deprecated tags__. Uses best practices and build using supported HTML and CSS tags.
 
+##HOSTING
+
+You can host your final project on the web for free, using GitHub pages. Watch [this video](https://generalassembly.wistia.com/medias/jn23v1hc93) and see [this getting started guide](https://github.com/generalassembly-studio/FEWD_Curriculum/blob/master/Final_Project/Getting_Started_with_GitHub_Pages.pdf) for more information on how to host your site on GitHub pages. If you run into any problems with GitHub pages, your instructor and TA(s) should be able to help you troubleshoot.
+
 ##GRADING
 
 Ask your producer for the rubric. A project is considered satisfactory if it meets all core requirements and you submit all milestones.
