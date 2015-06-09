@@ -52,7 +52,9 @@ h1 {
   border: 1px solid #ccc;
   margin-top: -1px;
   border-top: none;
-  display: inline-block; }
+  display: inline-block;
+  cursor: pointer;
+  margin-bottom: 1rem; }
   h1 em {
     font-style: oblique;
     font-weight: 100;
