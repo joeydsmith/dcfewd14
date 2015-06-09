@@ -66,5 +66,7 @@ section {
   border-radius: 3px;
   border-bottom: 1px solid #fff;
   border: 1px solid #ccc; }
+  section:target {
+    background: red; }
 
 /*# sourceMappingURL=style.css.map */
