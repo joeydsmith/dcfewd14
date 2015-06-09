@@ -80,6 +80,8 @@ section {
     border-bottom: 1px solid #fff;
     border: 1px solid #ccc;
     &:target {
-      background: red;
+      article {
+        display: none;
+      }
     }
 }
