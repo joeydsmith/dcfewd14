@@ -1,30 +1,26 @@
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+![GeneralAssemb.ly](http://joeydsmith.github.io/GA_files/img/icons/FEWD_Logo.png)
 
-#FEWD - Converting Non-Responsive To Responsive
+# FEWD - Converting Non-Responsive To Responsive
 
-###Instructor Name
-
-Instructors current role.
-
----
+***
 
 
-##Agenda
+## Agenda
 
 How to make a website responsive.
 
----
+***
 
-##Level One
+## Level One
 
 *	Convert widths to percentages
 *	Size fonts in ems
 *	Identify columns that can be stacked
 
----
+***
 
 
-##Level Two
+## Level Two
 
 *	Determine what content is extra
 	*	Does that h1 need an h2 under it?
@@ -37,21 +33,21 @@ How to make a website responsive.
 	*	Do my columns need a border if they’re stacked?
 
 
----
+***
 
 
 
-![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
-##Startup Matchmaker
+![GeneralAssemb.ly](http://joeydsmith.github.io/GA_files/img/icons/exercise_icon_md.png)
+## Startup Matchmaker
 
----
+***
 
 
-##Option Design for Mobile
+## Option Design for Mobile
 
 *	Google FastButton
 	*	Removes the 300ms click delay on native mobile browsers
 *	Use CSS animations/transitions
 	*	Hardware acceleration
 
----
+***
