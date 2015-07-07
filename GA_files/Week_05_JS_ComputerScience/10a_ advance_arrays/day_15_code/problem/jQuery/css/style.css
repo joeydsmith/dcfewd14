@@ -1,0 +1,47 @@
+.content-block {
+  border: 2px solid darkGrey;
+  margin: 10px;
+  background-color: lightGrey;
+  height: 100px;
+}
+
+.nav-item {
+  display: inline-block;
+  width: 10%;
+  height: 50px;
+  margin-top: 23px;
+  margin-bottom: 23px;
+}
+
+.heading {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.col-1-4 {
+  width: 25%;
+  float: left;
+}
+
+.col-2-4 {
+  width: 50%;
+  float: left;
+}
+
+.col-3-4 {
+  width: 75%;
+  float: left;
+}
+
+.col-last {
+  float: right;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  visibility: hidden;
+  clear: both;
+  line-height: 0;
+  height: 0;
+}
